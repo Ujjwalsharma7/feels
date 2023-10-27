@@ -11,7 +11,7 @@ export default function Home() {
           All you have to do is be honest.
         </p>
         <div>
-          <Link href="/">
+          <Link href="/journal">
             <button className=" bg-blue-600 p-4 rounded-lg text-xl hover:bg-blue-600/30">
               Get started
             </button>
